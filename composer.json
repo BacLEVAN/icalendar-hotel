@@ -15,5 +15,8 @@
             "type": "vcs",
             "url": "https://github.com/BacLEVAN/icalendar-hotel"
         }
-    ]
+    ],
+	"require": {
+        "monolog/monolog": "1.0.*"
+    }
 }
