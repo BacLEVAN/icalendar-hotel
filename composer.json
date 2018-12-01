@@ -1,7 +1,7 @@
 {
     "name": "baclv/icalendar-hotel",
 	"version": "1.0.0",
-	repositories": [
+	"repositories": [
         {
             "type": "vcs",
             "url": "https://github.com/BacLEVAN/icalendar-hotel"
