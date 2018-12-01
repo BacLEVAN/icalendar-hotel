@@ -19,5 +19,6 @@
 	"require": {
         "monolog/monolog": "1.0.*"
     },
-	"minimum-stability": "dev"
+	"minimum-stability": "dev",
+    "prefer-stable": true
 }
