@@ -4,10 +4,12 @@
 	"license": "MIT",
 	"authors": 
         {
-            "name": "Baclv",
-            "email": "baclv@github.com",
-            "homepage": "http://www.baclv.com",
-            "role": "Developer"
+			[
+				"name": "Baclv",
+				"email": "baclv@github.com",
+				"homepage": "http://www.baclv.com",
+				"role": "Developer"
+			]
         },
 	"repositories": [
         {
