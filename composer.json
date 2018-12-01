@@ -1,6 +1,14 @@
 {
     "name": "baclv/icalendar-hotel",
-	"version": "1.0.0",
+	"version": "1.0.*",
+	"license": "MIT",
+	"authors": 
+        {
+            "name": "Baclv",
+            "email": "baclv@github.com",
+            "homepage": "http://www.baclv.com",
+            "role": "Developer"
+        },
 	"repositories": [
         {
             "type": "vcs",
